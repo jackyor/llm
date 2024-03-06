@@ -1,7 +1,7 @@
 # llm
 I use groq to access Mixtral 8x7b llm model. Reason of choosing groq is the api is easy to create in Hong Kong and free of charge. The temperature of the model is 0 for ensuret the reproducibility.
 
-Demo video: https://github.com/jackyor/llm/assets/87265896/9871f6d6-8b78-4997-bccb-df5889878e23
+Demo video: https://youtu.be/Q3V-Cvy4oZ8
 
 The request content is in the content.txt which contain the text article and a prompt. The article is copy from the source https://techcrunch.com/2023/10/27/x-is-launching-new-premium-and-basic-subscription-tiers/. 
 
