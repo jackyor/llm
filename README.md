@@ -23,3 +23,6 @@ The prompt is the following:
 ```
 Please ensure the accuracy of the extracted information and the correctness of the JSON format."
 
+The result is:
+
+
