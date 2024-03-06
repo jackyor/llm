@@ -48,3 +48,5 @@ The result is:
   "topic": "X is launching two new subscription tiers, including a ‘Premium+’ ad-free plan."
 }
 ```
+
+Note: I am not sure if I need to elimate Twitter. Although X and Twitter is the same company, Twitter is more regonized than X as the company name thus it may be more valuable to include Twitter.
