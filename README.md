@@ -25,4 +25,26 @@ Please ensure the accuracy of the extracted information and the correctness of t
 
 The result is:
 
-
+```
+{
+  "related_companies": [
+    {
+      "company_name": "X",
+      "company_domain": "X.com"
+    },
+    {
+      "company_name": "Twitter",
+      "company_domain": "Twitter.com"
+    },
+    {
+      "company_name": "Bloomberg",
+      "company_domain": "Bloomberg.com"
+    },
+    {
+      "company_name": "Reuters",
+      "company_domain": "Reuters.com"
+    }
+  ],
+  "topic": "X is launching two new subscription tiers, including a ‘Premium+’ ad-free plan."
+}
+```
