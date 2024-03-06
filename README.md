@@ -1,5 +1,5 @@
 # llm
-I use groq to access Mixtral 8x7b llm model. Reason of choosing groq is the api is easy to create in Hong Kong and free of charge. The temperature of the model is 0 to ensure the result is reproducible.
+I use groq to access Mixtral-8x7B llm model. Reason of choosing groq is the api is easy to create in Hong Kong and free of charge. Also, groq has a huge competitive advantage in inferencing speed. For model, Mixtral-8x7B is one of the best open source llm model with small weight. The temperature of the model is 0 to ensure the result is reproducible. 
 
 Demo video: https://youtu.be/Q3V-Cvy4oZ8
 
